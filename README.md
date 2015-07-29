@@ -1,4 +1,4 @@
-CentOS with NodeJs
+CentOS with NodeJS
 ==================
 
 Usage
